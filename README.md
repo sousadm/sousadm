@@ -17,6 +17,6 @@
 <img align="center" alt="Sousa-LibreOffice" height="50" width="120" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"> 
 </div>
   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/sousadm/sousadm/blob/output/github-contribution-grid-snake.svg)
  
 ##
